@@ -23,18 +23,18 @@ It’s mainly for practice, self-learning, and tracking my progress in C.
 To compile and run any program:
 gcc filename.c -o output
 ./output
-##🎯 Purpose
+##🎯 Purpose##
 - Practice problem-solving and algorithmic thinking
 - Build a strong foundation in C programming
 - Share progress with others who are also learning
 
-##📂 Structure
+📂 Structure
 Each program is kept simple and includes comments to explain the logic.
 Files are organized by topic for easy navigation.
 
-##🤝 Contributions
+🤝 Contributions
 This is a learning project. Suggestions, improvements, or beginner-friendly tips are always welcome!
-##📌 Note
+📌 Note
 I’m a beginner, so the code may not be perfect.
 This repo is a space to learn, experiment, and grow in programming skills.
 
