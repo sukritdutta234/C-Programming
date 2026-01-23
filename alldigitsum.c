@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
+    // this is gonna be fun commit through git bash
     int num , digit1, digit2, digit3, sum;
     printf("Enter the number: ");
     scanf("%d", &num);
